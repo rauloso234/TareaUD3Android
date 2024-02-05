@@ -1,0 +1,10 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">Nombre de tu App</string>
+    <string name="btn_exit">Salir</string>
+    <string name="btn_about">Acerca de...</string>
+    <string name="btn_activity2">Ir a Activity 2</string>
+    <string name="title_activity_main">Pantalla Principal</string>
+    <string name="title_activity_second">Activity 2</string>
+    <string name="title_activity_about">Acerca de...</string>
+</resources>
